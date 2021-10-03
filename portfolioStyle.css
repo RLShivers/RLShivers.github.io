@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(138, 43, 226);
+    border-style: double;
+    border-color: rgb(1, 22, 1);
+    
+}
+
+h1 {
+    color: rgb(136, 110, 6);
+    text-align: center;
+
+}
+h2{
+    color: rgb(43, 233, 129);
+    text-align: center;
+    text-emphasis: none;
+}
+
+
+  
+  
+  li a:hover {
+    background-color: rgb(27, 235, 44);
+  }
